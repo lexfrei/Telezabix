@@ -6,7 +6,7 @@
 
 # Put this file to AlertScript path (you can find this path in zabbix_server.cfg)
 
-JerardToken="123496961:AAHn8QSg0_ZMMiBIv5ie-49jJSck7RHTWEc" #You can change this token to your own or just use my bot
+JerardToken="123496961:AAEHXP8DYKkUu5Y2u7fXWySOhh7Gk157IJc" #You can change this token to your own or just use my bot
 JerardURL="https://api.telegram.org/bot${JerardToken}"
 JerardClient=${1} #You need to set this in "to" field in media settings in your user profile
 JerardSubj=${2}
